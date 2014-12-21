@@ -1,8 +1,8 @@
 Bipartite-Matching
 ==================
 
->Note: There exists a error/bug in the code that I've forgot to address (the bug is, when augmenting unmark the edge to allow fair game in the next match).
->Note 2: K represents the rank ex. Chandler ranks Rachel: 2 / Rachel ranks Chandler: 3
+>*Note: There exists a error/bug in the code that I've forgot to address (the bug is, when augmenting unmark the edge to allow fair game in the next match).
+>*Note 2: K represents the rank ex. Chandler ranks Rachel: 2 / Rachel ranks Chandler: 3
 
 The Objective:
 
